@@ -167,14 +167,12 @@ html{
 
 @media(min-width: 1200px){
 	.main .calc-container{
-		height: 95%;
 		width: 55%;
 	}
 }
 
 @media(min-width: 1350px){
 	.main .calc-container{
-		height: 95%;
 		width: 40%;
 	}
 }
